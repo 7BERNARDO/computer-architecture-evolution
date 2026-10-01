@@ -46,13 +46,13 @@
     
     É necessário programar utilizando mecanismos de sincronização (como Threads, barreiras, semáforos, locks ou passagem de mensagens). Se esses mecanismos falharem, o sistema sofre com problemas exclusivos do mundo paralelo, como as condições de corrida ou os deadlocks. 
 
-## 2. Como a arquitetura MIMD quebra o modelo tradicional de execução sequencial de código?
+## 2. Qual é a diferença prática entre MIMD de Memória Compartilhada (SMP) e Memória Distribuída (Clusters) na hora de programar?
 
-## 3. Qual é a diferença prática entre MIMD de Memória Compartilhada (SMP) e Memória Distribuída (Clusters) na hora de programar?
+## 3.  O que é o problema da "Coerência de Cache" em hardware MIMD e como ele afeta o software?
 
-## 4.  O que é o problema da "Coerência de Cache" em hardware MIMD e como ele afeta o software?
+## 4. Como a Lei de Amdahl define o limite de performance de um software rodando em MIMD?
 
-## 5. Como a Lei de Amdahl define o limite de performance de um software rodando em MIMD?
+## 5. Por que as arquiteturas MIMD sofrem com o problema de "Deadlock" e como evitá-lo? 
 
 ## 6. O que acontece se dois processadores tentarem alterar o mesmo dado na memória compartilhada?
 
