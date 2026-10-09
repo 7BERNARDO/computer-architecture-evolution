@@ -34,3 +34,8 @@
 - NVIDIA. *CUDA C++ Best Practices Guide: Memory Optimizations*. Disponível em: https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html#memory-optimizations.
 - JEDEC. *Graphics Double Data Rate (GDDR) Standards*. Disponível em: https://www.jedec.org/standards-documents/focus/memory.
 - NVIDIA. *CUDA Runtime API: Device Management*. Disponível em: https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__DEVICE.html.
+
+## E. Acesso e movimentação de dados
+
+- NVIDIA. *CUDA C++ Programming Guide: Device Memory Accesses*. Disponível em: https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#device-memory-accesses.
+- NVIDIA. *CUDA C++ Best Practices Guide: Coalesced Access to Global Memory*. Disponível em: https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html#coalesced-access-to-global-memory.
