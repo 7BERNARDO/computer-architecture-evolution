@@ -39,3 +39,10 @@
 
 - NVIDIA. *CUDA C++ Programming Guide: Device Memory Accesses*. Disponível em: https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#device-memory-accesses.
 - NVIDIA. *CUDA C++ Best Practices Guide: Coalesced Access to Global Memory*. Disponível em: https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html#coalesced-access-to-global-memory.
+
+## F. Unidades de processamento e execução
+
+- NVIDIA. *CUDA C++ Programming Guide: Hardware Multithreading*. Disponível em: https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#hardware-multithreading.
+- NVIDIA. *CUDA C++ Programming Guide: SIMT Architecture*. Disponível em: https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#simt-architecture.
+- NVIDIA. *CUDA C++ Programming Guide: Asynchronous Concurrent Execution*. Disponível em: https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#asynchronous-concurrent-execution.
+- AMD. *ROCm Documentation: Hardware Implementation*. Disponível em: https://rocm.docs.amd.com/projects/HIP/en/docs-7.0.2/understand/hardware_implementation.html.
